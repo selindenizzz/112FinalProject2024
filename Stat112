@@ -1,4 +1,4 @@
-# DATA CLEANİNG
+# DATA CLEANING
 
 # import pandas and numpy libraries
 import pandas as pd
@@ -170,7 +170,7 @@ laptops_excel.head(50)
 laptops_excel.to_excel("temizdata8.xlsx", index=False)
 
 
-# VİSUALİZATİON
+# VISUALIZATION
 
 # import necessary libraries 
 import pandas as pd
